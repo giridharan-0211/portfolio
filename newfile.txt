@@ -1,0 +1,13 @@
+Satoryuzei Palace — Web Showcase
+================================
+
+Overview:
+Static landing page for the Satoryuzei Palace multi-branch hospitality brand.
+
+Files:
+- index.html : Main page structure (Hero, Branches, Experience, Footer)
+- index.css  : Dark luxury theme styling and responsive grid layout
+- newfile.txt: Project notes and structure overview
+
+How to Preview:
+Double-click index.html to open it directly in any web browser.
