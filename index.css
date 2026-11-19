@@ -1,1 +1,74 @@
-vsvsfs
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Satoryuzei Palace | Stay, Thoughtfully</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="logo">SATORYUZEI</div>
+        <nav>
+            <a href="#branches">Branches</a>
+            <a href="#experience">Experience</a>
+            <a href="#contact" class="btn-outline">Reserve</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <p class="eyebrow">MULTI-BRANCH HOSPITALITY</p>
+            <h1>Satoryuzei Palace</h1>
+            <p class="subtitle">Timeless architecture, quiet luxury, and effortless reservations across every destination.</p>
+            <a href="#branches" class="btn-primary">Explore Destinations</a>
+        </div>
+    </section>
+
+    <section id="branches" class="section">
+        <h2>Our Branches</h2>
+        <div class="grid">
+            <div class="card">
+                <span class="tag">Flagship</span>
+                <h3>Satoryuzei Grand</h3>
+                <p>City-center suites designed for executive stays, fine dining, and panoramic skyline views.</p>
+                <div class="price">From $220 / night</div>
+            </div>
+            <div class="card">
+                <span class="tag">Resort</span>
+                <h3>Satoryuzei Coast</h3>
+                <p>Private beachfront villas with infinity pools, spa sanctuaries, and curated ocean excursions.</p>
+                <div class="price">From $310 / night</div>
+            </div>
+            <div class="card">
+                <span class="tag">Retreat</span>
+                <h3>Satoryuzei Highlands</h3>
+                <p>Secluded mountain lodges offering fireplace lounges, botanical trails, and tranquil mornings.</p>
+                <div class="price">From $260 / night</div>
+            </div>
+        </div>
+    </section>
+
+    <section id="experience" class="section highlight">
+        <h2>Built for Seamless Stays</h2>
+        <div class="features">
+            <div>
+                <h4>Instant Availability</h4>
+                <p>Real-time room status and date-conflict protection across all branches.</p>
+            </div>
+            <div>
+                <h4>Tailored Services</h4>
+                <p>Add airport transfers, private dining, and concierge requests to any booking.</p>
+            </div>
+            <div>
+                <h4>Transparent Billing</h4>
+                <p>Clear nightly rates, itemized invoices, and flexible cancellation policies.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <p>&copy; 2026 Satoryuzei Palace. All rights reserved.</p>
+    </footer>
+</body>
+</html>
