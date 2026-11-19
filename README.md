@@ -16,7 +16,7 @@ Personal portfolio website showcasing my background as a Software Developer, tec
 - **Education:**
   - B.E. in Computer Science — Anna University Regional Campus, Madurai (2022 – 2026) | CGPA: 7.8 / 10
   - Higher Secondary (12th) — Sri Bharathi Vidyalaya Matric Hr. Sec. School, Marandahalli | 82.6%
-  - Secondary School (10th) — Sri Vidya Mandir Matric Hr. Sec. School, Palacode | 92.4%
+  - Matriculation (10th) — Sri Vidya Mandir Matric Hr. Sec. School, Palacode | 92.4%
 - **Contact:** Direct links for Email, Phone, and LinkedIn.
 
 ## Tech Stack
