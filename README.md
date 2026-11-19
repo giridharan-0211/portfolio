@@ -6,19 +6,22 @@ Personal portfolio website showcasing my background as a Software Developer, tec
 - **Portfolio:** [https://giridharan-0211.github.io/satoryuzei/](https://giridharan-0211.github.io/satoryuzei/)
 
 ## Sections Included
-- About & Summary: Overview of my focus on Python, FastAPI, JavaScript, and PostgreSQL development.
-- Technical Skills: Languages, backend/database technologies, frontend tools, and core software engineering concepts.
-- Experience: Python Developer Intern at Vital Core Technologies (Jul 2025 – Aug 2025).
-- Projects:
-  - Multi-Branch Hotel Management & Reservation System (PHP, PostgreSQL, HTML, CSS, JavaScript, Bootstrap).
-  - Parking Management System (Python, FastAPI, SQL, HTML, CSS, JavaScript).
-  - Machine Learning-Based Phishing Prevention Application (Java, Android, Random Forest, Firebase).
-- Education: B.E. in Computer Science — Anna University Regional Campus, Madurai (2022 – 2026).
-- Contact: Direct links for Email, Phone, and LinkedIn.
+- **About & Summary:** Overview of my focus on Python, FastAPI, JavaScript, and PostgreSQL development.
+- **Technical Skills:** Languages, backend/database technologies, frontend tools, and core software engineering concepts.
+- **Experience:** Python Developer Intern at Vital Core Technologies (Jul 2025 – Aug 2025).
+- **Projects:**
+  - *Multi-Branch Hotel Management & Reservation System* (PHP, PostgreSQL, HTML, CSS, JavaScript, Bootstrap)
+  - *Parking Management System* (Python, FastAPI, SQL, HTML, CSS, JavaScript)
+  - *Machine Learning-Based Phishing Prevention Application* (Java, Android, Random Forest, Firebase)
+- **Education:**
+  - B.E. in Computer Science — Anna University Regional Campus, Madurai (2022 – 2026) | CGPA: 7.8 / 10
+  - Higher Secondary (12th) — Sri Bharathi Vidyalaya Matric Hr. Sec. School, Marandahalli | 82.6%
+  - Secondary School (10th) — Sri Vidya Mandir Matric Hr. Sec. School, Palacode | 92.4%
+- **Contact:** Direct links for Email, Phone, and LinkedIn.
 
 ## Tech Stack
-- HTML5
-- CSS3 (Responsive Grid & Flexbox layout)
+- **HTML5**
+- **CSS3** (Responsive Grid & Flexbox layout)
 
 ## Project Structure
 ```text
