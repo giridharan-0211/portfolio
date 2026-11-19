@@ -3,7 +3,7 @@
 Personal portfolio website showcasing my background as a Software Developer, technical skills, internship experience, and full-stack / machine learning projects.
 
 ## Live Demo
-- **Portfolio:** [[https://giridharan-0211.github.io/satoryuzei/](https://giridharan-0211.github.io/satoryuzei/)](https://giridharan-0211.github.io/portfolio/)
+- **Portfolio:** (https://giridharan-0211.github.io/portfolio/)
 
 ## Sections Included
 - **About & Summary:** Overview of my focus on Python, FastAPI, JavaScript, and PostgreSQL development.
